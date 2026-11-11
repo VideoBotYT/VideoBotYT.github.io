@@ -1,7 +1,7 @@
 <script lang="ts">
     const contributors = [
       { name: "VideoBot", url: "#", description: "The one who literally made everything", iconURL: "/images/VideoBot.png" },
-      { name: "Daveberry Cricket Blueson", url: "https://codedave.pages.dev/", description: "The guy who helps too much, and most code are from his website.", iconURL: "https://codedave.pages.dev/assets/images/Daveberry%20Wave.png" }
+      { name: "Daveberry Cricket Blueson", url: "https://blueson.tech/", description: "The guy who helps too much, and most code are from his website.", iconURL: "https://codedave.pages.dev/assets/images/Daveberry%20Wave.png" }
     ];
 </script>
 

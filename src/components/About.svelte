@@ -6,6 +6,7 @@
                 { name: "Haxe", icon: "haxe", state: "blue" },
                 { name: "Lua", icon: "lua", state: "yellow" },
                 { name: "Java", icon: "java", state: "red" },
+                { name: "Rust", icon: "rust", state: "red" }
             ],
         },
         {
@@ -47,7 +48,6 @@
 
 <article class="border round center">
     <h4>Languages</h4>
-    <p class="mediumText">Tap/Hover Information:</p>
     <p style="color: #008BFF;"><b>Blue</b> - Prefers this language, and codes in it.</p>
     <p style="color: #FFFF00;"><b>Yellow</b> - Codes in this language, but doesn't mainly code in it.</p>
     <p style="color: #FF0000;"><b>Red</b> - Learning on this language.</p>
