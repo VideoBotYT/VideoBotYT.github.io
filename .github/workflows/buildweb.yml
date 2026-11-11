@@ -3,6 +3,7 @@ name: Build Web
 on:
   push:
     paths:
+      - '.github/workflows/**'
       - 'src/**'
       - 'public/**'
       - '**.html'
