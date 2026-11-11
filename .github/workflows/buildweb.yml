@@ -32,6 +32,9 @@ jobs:
         with:
           version: 9
 
+      - name: Install packages
+        run: pnpm install
+
       - name: Bundle with Vite
         run: pnpm run build
 
